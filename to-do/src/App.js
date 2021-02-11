@@ -27,7 +27,7 @@ function App() {
           }}
           className="input"
           placeholder="Add a new task">
-          </input>
+        </input>
       </form>
       <div className="task-list">
         <hr></hr>
